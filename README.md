@@ -1,4 +1,4 @@
-# virussimulator
+# Virus Simulator
 A computer virus simulator.
 
 Soooooooooooooo this is a cool project I am working on that simulates a computer virus.
